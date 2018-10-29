@@ -4,5 +4,6 @@ img {
 
 body {
     background: url(../images/nba.jpg) repeat;
+    background-attachment: fixed;
 }
 

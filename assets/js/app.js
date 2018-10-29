@@ -1,4 +1,4 @@
-var players = ["LeBron James", "James Harden", "Joel Embiid", "Rasheed Wallace", "Michael Jordan", "Vince Carter", "Dunk Contest", "Blocked Shot", "Trust the Process", "Benny the Bull"];
+var players = ["LeBron James", "James Harden", "Joel Embiid", "Rasheed Wallace", "Michael Jordan", "Vince Carter", "Dunk Contest", "Iverson Stepover", "Trust the Process", "Benny the Bull"];
 
 function displayPlayerGif() {
     console.log(this);
